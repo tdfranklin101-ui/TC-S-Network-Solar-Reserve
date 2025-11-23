@@ -1,0 +1,8 @@
+{
+  "repoName": "TC-S-Network-Solar-Reserve",
+  "slug": "solar-reserve",
+  "title": "Solar Reserve Tracker",
+  "role": "Tracks generator total, burned/redemption, and remaining reserves.",
+  "kind": "dashboard",
+  "createdAt": "2025-11-22T17:30:17.995Z"
+}
